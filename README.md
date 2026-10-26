@@ -4,8 +4,7 @@ A Streamlit app that downloads monthly CPI and exchange-rate data from the IMF
 (SDMX 3.0 API) and computes a bilateral real exchange rate between any two IMF
 countries or the Euro area.
 
-**Live app:** _paste your streamlit.app link here_
-
+**Live app:** https://real-exchange-rate-app-hr4svtknuptuagxqh89uph.streamlit.app/
 ## Economics
 
 | Symbol | Definition |
